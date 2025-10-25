@@ -11,9 +11,9 @@ this app includes functionality to:
 - pull to refresh
 - simple inventory stats
 
-## demo video
+## download apk
 
-you can find the demo video here
+you can download the apk [here](https://github.com/Pheonix0x01/store-keepor/releases/tag/v1.0.0)
 
 ## appetize apk
 
