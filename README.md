@@ -1,4 +1,4 @@
-# store_keepor
+# store keepor
 
 this is a store keeper/inventory app that runs completely locally on the users device.
 
@@ -15,9 +15,9 @@ this app includes functionality to:
 
 you can find the demo video here
 
-## download apk
+## appetize apk
 
-you can download the apk here
+you can find the appetize link [here](https://appetize.io/app/b_7ru63dn5ntmegfekjhqbpnozoe)
 
 ## build from source
 
