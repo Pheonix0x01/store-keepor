@@ -28,45 +28,52 @@ class AppSpacing {
 }
 
 class AppTextStyles {
-  static TextStyle heading1 = GoogleFonts.sourceCodePro(
+  static const TextStyle heading1 = TextStyle(
+    fontFamily: 'SourceCodePro',
     fontSize: 32,
     fontWeight: FontWeight.bold,
     color: AppColors.textPrimary,
     letterSpacing: -0.5,
   );
   
-  static TextStyle heading2 = GoogleFonts.sourceCodePro(
+  static const TextStyle heading2 = TextStyle(
+    fontFamily: 'SourceCodePro',
     fontSize: 24,
     fontWeight: FontWeight.bold,
     color: AppColors.textPrimary,
     letterSpacing: -0.3,
   );
   
-  static TextStyle heading3 = GoogleFonts.sourceCodePro(
+  static const TextStyle heading3 = TextStyle(
+    fontFamily: 'SourceCodePro',
     fontSize: 20,
     fontWeight: FontWeight.w600,
     color: AppColors.textPrimary,
   );
   
-  static TextStyle bodyLarge = GoogleFonts.sourceCodePro(
+  static const TextStyle bodyLarge = TextStyle(
+    fontFamily: 'SourceCodePro',
     fontSize: 16,
     fontWeight: FontWeight.normal,
     color: AppColors.textPrimary,
   );
   
-  static TextStyle bodyMedium = GoogleFonts.sourceCodePro(
+  static const TextStyle bodyMedium = TextStyle(
+    fontFamily: 'SourceCodePro',
     fontSize: 14,
     fontWeight: FontWeight.normal,
     color: AppColors.textPrimary,
   );
   
-  static TextStyle bodySmall = GoogleFonts.sourceCodePro(
+  static const TextStyle bodySmall = TextStyle(
+    fontFamily: 'SourceCodePro',
     fontSize: 12,
     fontWeight: FontWeight.normal,
     color: AppColors.textSecondary,
   );
   
-  static TextStyle button = GoogleFonts.sourceCodePro(
+  static const TextStyle button = TextStyle(
+    fontFamily: 'SourceCodePro',
     fontSize: 16,
     fontWeight: FontWeight.w600,
     color: AppColors.textPrimary,

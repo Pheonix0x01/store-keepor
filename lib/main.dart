@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:sqflite_common_ffi/sqflite_ffi.dart';
 import 'dart:io';
-import 'package:google_fonts/google_fonts.dart';
 import 'utils/constants.dart';
 import 'screens/home.dart';
 
@@ -25,7 +24,7 @@ class MyApp extends StatelessWidget {
       title: AppConstants.appName,
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        fontFamily: GoogleFonts.sourceCodePro().fontFamily,
+        fontFamily: 'SourceCodePro',
         brightness: Brightness.dark,
         scaffoldBackgroundColor: AppColors.background,
         colorScheme: ColorScheme.dark(
